@@ -9,5 +9,5 @@ api = 2
 ; ----------------------------------------
 
 projects[campusprofile][download][type] = "git"
-projects[campusprofile][download][url] = "git@github.com:hlykos/campusprofile.git"
+projects[campusprofile][download][url] = "git@bitbucket.org:hlykos/campusprofile.git"
 projects[campusprofile][type] = "profile"
