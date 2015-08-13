@@ -9,5 +9,5 @@ api = 2
 ; ----------------------------------------
 
 projects[paratiritirioprofile][download][type] = "git"
-projects[paratiritirioprofile][download][url] = "https://hlykos@bitbucket.org/hlykos/paratiritirioprofile.git"
+projects[paratiritirioprofile][download][url] = "git@bitbucket.org:hlykos/paratiritirioprofile.git"
 projects[paratiritirioprofile][type] = "profile"

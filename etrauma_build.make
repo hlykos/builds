@@ -9,5 +9,5 @@ api = 2
 ; ----------------------------------------
 
 projects[etraumaprofile][download][type] = "git"
-projects[etraumaprofile][download][url] = "ssh://git@bitbucket.org/hlykos/etraumaprofile.git"
+projects[etraumaprofile][download][url] = "git@bitbucket.org:hlykos/etraumaprofile.git"
 projects[etraumaprofile][type] = "profile"

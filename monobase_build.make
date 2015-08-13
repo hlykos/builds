@@ -9,5 +9,5 @@ api = 2
 ; ----------------------------------------
 
 projects[monobase][download][type] = "git"
-projects[monobase][download][url] = "https://hlykos@bitbucket.org/hlykos/monobase.git"
+projects[monobase][download][url] = "git@bitbucket.org:hlykos/monobase.git"
 projects[monobase][type] = "profile"
