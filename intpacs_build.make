@@ -9,6 +9,6 @@ api = 2
 ; ----------------------------------------
 
 projects[intpacsprofile][download][type] = "git"
-projects[intpacsprofile][download][url] = "git@bitbucket.org:hlykos/intpacsprofile.git"
+projects[intpacsprofile][download][url] = "git://bitbucket.org/hlykos/intpacsprofile.git"
 projects[intpacsprofile][download][branch] = master
 projects[intpacsprofile][type] = "profile"
