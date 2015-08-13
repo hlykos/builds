@@ -9,5 +9,5 @@ api = 2
 ; ----------------------------------------
 
 projects[paynoteprofile][download][type] = "git"
-projects[paynoteprofile][download][url] = "git@bitbucket.org:hlykos/paynoteprofile.git"
+projects[paynoteprofile][download][url] = "https://hlykos@bitbucket.org/hlykos/paynoteprofile.git"
 projects[paynoteprofile][type] = "profile"
